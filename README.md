@@ -9,6 +9,6 @@
   
   How to get started with this project?
   -----------
-  This project dos'nt have any requirements, it uses only basic python packages- Tkinter, random, and regex. 
+  This project doesn't have any requirements, it uses only basic python packages- Tkinter, random, and regex. 
   All you need to do to play is clone and run!
   
